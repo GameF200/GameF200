@@ -9,12 +9,14 @@ I build high-performance systems and efficient scripts. Passionate about memory 
 ### Tech Stack
 
 * **Languages:** 
-    * ![Rust](https://img.shields.io/badge/rust-%23E57324.svg?style=flat-square&logo=rust&logoColor=white) **Rust** (Systems, CLI, Backend)
+    * ![Rust](https://img.shields.io/badge/rust-%23E57324.svg?style=flat-square&logo=rust&logoColor=white) **Rust** (Systems, CLI)
+    * ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus) **C++** (Gamedev )
     * ![Luau](https://img.shields.io/badge/luau-%2300A2FF.svg?style=flat-square&logo=roblox&logoColor=white) **Luau** (Game Logic, Optimization)
 * **Tools & Environments:**
-    * `Cargo`, `async-std`, `Serde`, `toml`, `glfw`, `ash`
+    * `Cargo`, `async-std`, `Serde`, `toml`,
+    * `VkBootstrap`, `CMake`, `Flecs`, `VMA`, `Vulkan 1.4`
     * `Roblox Studio`, 
-    * `Git`, `Docker`, `VS Code`
+    * `Git`,  `VS Code`, `Visual Studio 2026`
 
 ---
 
